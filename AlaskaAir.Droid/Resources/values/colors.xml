@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#044169</color>
+    <color name="colorPrimaryDark">#002171</color>
+    <color name="colorAccent">#004ecb</color>
+    <color name="widowsBackgroundColor">@android:color/white</color>
+    <color name="backgroundColorCard">#4d2c91</color>
+</resources>
